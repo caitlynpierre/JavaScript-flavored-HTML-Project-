@@ -1,10 +1,10 @@
-#JavaScript Project 
+# JavaScript Project 
 
 This project will serve as a review for all the HTML, CSS, and JavaScript we've learned so far in class.
 
 Before you do anything, you should break into groups of 3 or 4. You'll be working together for the next 2-3 classes. 
 
-##Rules
+## Rules
 
 > ## What you're making: 
 > 1. You'll create a single webpage. This could be a blog like Tumblr, a social media landing page, an e-commerce site, or a photo sharing site (like Instagram or Pinterest) etc. 
@@ -21,5 +21,5 @@ Before you do anything, you should break into groups of 3 or 4. You'll be workin
 >   6. Make a border appear around an image on your page if the user has their cursor over the image. (You can use jQuery OR CSS to make this happen)
 >   7. Add a like/heart button to a post (image, blog, social media etc.) on your page. If the use clicks, the button should change color, and there you be a number next to it that increments (increases by one). For an added challenge, you should also implement the reverse: the number should go down by one (decrement) if the user unlikes. The button should go back to its original color. 
 
-##Tips
+## Tips
 
