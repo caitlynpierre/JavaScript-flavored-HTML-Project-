@@ -23,5 +23,5 @@ Before you do anything, you should break into groups of 3 or 4. You'll be workin
 
 
 ## Tips
-+ Try to keep your wireframe layout simple, but don't worry too much about something you don't know how to do. We'll give you feedback about your design, and help you with CSS tricks and techniques. Focus on using JavaScript to get all of your content on the screen first. Then worry about the styling afterward. 
++ Try to keep your wireframe layout simple, but don't worry if your design incorporates something you don't know how to do. We'll give you feedback about your design, and help you with CSS tricks and techniques. Focus on using JavaScript to get all of your contents into html, and displayed on the screen first. Then worry about the styling afterward. 
 
