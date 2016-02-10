@@ -9,7 +9,7 @@ Before you do anything, you should break into groups of 3 or 4. You'll be workin
 > ## What you're making: 
 > 1. You'll create a single webpage. This could be a blog like Tumblr, a social media landing page, an e-commerce site, or a photo sharing site (like Instagram or Pinterest) etc. 
 > 2. You should include your JS in the script.js file and CSS in your style.css file. 
-> 3. If you need to include images or other files, you can either find an image online and use that url, OR download the image and create a folder in your project like 'img'. Then, place your images in that file. In your code, you'll need to use a relative file path name, some the url would be 'img/image-name.jpg'
+> 3. If you need to include images or other files, you can either find an image online and use that url, OR download the image and create a folder in your project like 'img'. Then, place your images in that file. In your code, you'll need to use a relative file path name, so the url would be 'img/image-name.jpg'
 > 
 > ## Basic requirements: 
 > + Before you write any code, you'll need to brainstorm with your team and make a simple wireframe. Once you're done, go to your assigned instructor who will make sure your idea satisfies the project requirements. Be prepared to explain how your proposed wireframe meets the requirements and how you'll approach making the page and what tools you'll use. 
