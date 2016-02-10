@@ -14,8 +14,8 @@ Before you do anything, you should break into groups of 3 or 4. You'll be workin
 > ### Basic requirements: 
 > 1. Before you write any code, you'll need to brainstorm with your team and make a simple wireframe. Once you're done, go to your assigned instructor who will make sure your idea satisfies the project requirements. Be prepared to explain how your proposed wireframe meets the requirements and how you'll approach making the page and what tools you'll use. 
 > 2. You must include at least 5 of the following:      
->   Include a `<button>` element that, when clicked, causes something to appear on the page. [Use JQuery]
->   Use an array of data to create a list of something in your HTML. 
->   For example, if you have an array like this, you would have to somehow turn it into html: 
->       var posts = [['John','image1.jpg',34],['Sammy','face.jpg',90],['Shera','vacation1.jpg',103]]
->   So posts[i][0] is the poster's name, posts[i][1] is the image url and posts[i][2] is the number of likes. 
+>   + Include a `<button>` element that, when clicked, causes something to appear on the page. [Use JQuery]
+>   + Use an array of data to create a list of something in your HTML. 
+>   + For example, if you have an array like this, you would have to somehow turn it into html: 
+>       `var posts = [['John','image1.jpg',34],['Sammy','face.jpg',90],['Shera','vacation1.jpg',103]]`
+>   + So posts[i][0] is the poster's name, posts[i][1] is the image url and posts[i][2] is the number of likes. 
