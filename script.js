@@ -17,7 +17,7 @@ for (var i=0; i<shoes.length; i++) {
 //Line 6: 
 //We borrow some helper functions from jQuery. jQuery is a library. Basically, other developers realized there was a easier way to add things to HTML using JavaScript, and wrote some functions, and now many other developers just use their work to save ourselves some time. It's kind of like stealing...but we encourage this kind of stealing in coding and programming. 
 
-//$(selectorName)---Think of this part as if the .html file is a map. When we tell jQuery--> $(selectorName), it means, travel to the part of the html that matches this SELECTOR. Remember, SELECTORS can be html tags, or ids, or classes! And selectorName here is just a placeholder. ***An actual selector should always be a string!*** So $('selectorString') is more like it. 
+//$(selectorName)---Think of this part as if the .html file is a map. When we tell jQuery--> $(selectorName), it means, travel to the part of the html that matches this SELECTOR. Remember, SELECTORS can be html tags, or ids, or classes! In jQuery, the selectorName has to be a STRING!
 //In this case, jQuery makes a trip to $('body'), the <body> element, each time our loop runs! Once jQuery is at any element, it can do different things to that element. For example, if you say $('body').hide(), jQuery will basically make your whole webpage disappear! 
 
 //Try it!
